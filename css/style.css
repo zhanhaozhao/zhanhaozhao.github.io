@@ -124,7 +124,7 @@ h2 code {
 
 .news_list  {
     padding: 0%;
-    list-style-type: none;
+    padding-inline-start: 12px;
 }
 
 .news_list svg {
@@ -271,4 +271,9 @@ h2 code {
 
 .read_more {
     margin-top: 1%;
+}
+
+.content_list  {
+    padding: 0%;
+    padding-inline-start: 12px;
 }
