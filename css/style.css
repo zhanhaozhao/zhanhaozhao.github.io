@@ -75,7 +75,8 @@ h2 code {
 
 .about #full_name {
     margin-top: 50px;
-    font-size: x-large;
+    /* font-size: x-large; */
+    font-size: 1.75rem;
 }
 
 .about .affiliations #title {
@@ -274,6 +275,7 @@ h2 code {
 }
 
 .content_list  {
-    padding: 0%;
-    padding-inline-start: 12px;
+    /* padding: 0%; */
+    /* padding-inline-start: 12px; */
+    padding-left: 20px;
 }
